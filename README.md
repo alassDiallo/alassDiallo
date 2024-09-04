@@ -1,5 +1,7 @@
 👋 Welcome to my GitHub Profile!
+
 🎓 About Me
+
 I am an Artificial Intelligence Engineer with a strong passion for Data Science. My academic and professional journey has allowed me to develop solid skills in data analysis, machine learning, and multi-agent modeling. I enjoy exploring complex problems and bringing innovative solutions through AI.
 
 💼 Featured Projects
@@ -30,7 +32,9 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and r
 
 
 👋 Bienvenue sur mon profil GitHub !
+
 🎓 À propos de moi
+
 Je suis ingenieur en Intelligence Artificielle avec une forte passion pour la Data Science. Mon parcours académique et professionnel m'a permis de développer des compétences solides dans l'analyse de données, le machine learning, et la modélisation multi-agents. J'aime explorer des problèmes complexes et apporter des solutions innovantes grâce à l'IA.
 
 💼 Projets Phare
