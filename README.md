@@ -21,11 +21,15 @@ Technologies: Python, Multi-Agent Systems
 Description: Development of a platform where agents can debate online on various topics using automated argumentation techniques. This project focuses on the complex interactions between agents in a structured debate framework.
 Technologies: Python, Argumentation Theory, Multi-Agent Systems
 🚀 Other Projects
+
 In addition to the projects mentioned above, I have worked on several other studies and projects in Data Science and Artificial Intelligence, including predictive analytics, recommendation systems, and much more.
 
 📫 Contact Me
+
 LinkedIn: Al Hassane Diallo
+
 Email: diallo.alhassane0001@gmail.com
+
 Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out to me for any collaboration or discussion around AI and Data Science.
 
 
